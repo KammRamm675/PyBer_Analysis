@@ -46,4 +46,4 @@
     
     2.	Based strictly off the given information, I would say a more solid push into the rural sector should be made.  Rural fare is a lot higher but according to the                   information given rural fares were the least experience fare type (see ATTACH PICTURE INFO) Rural rides stands at only 5.3% overall. The next being 26.3%
 
-    3.	Lastly, to accomplish the previous suggestion I would also suggest doing a sub-massive hiring in the rural sector for drivers.  Not only were the fares the lowest in the         rural sector but so is the amount of drivers there too. 
+    3.	Lastly, to accomplish the previous suggestion I would also suggest doing a sub-massive hiring in the rural sector for drivers.  Not only were the fares the lowest in the         rural sector but so is the amount of drivers there too. (see ATTACH PICTURE INFO)
