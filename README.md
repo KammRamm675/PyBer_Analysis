@@ -21,7 +21,7 @@
     -Total Fares:
         Rural – $4,327.93
       	Urban – $39,854.38
-    	  Suburban – $19,356.33
+    	Suburban – $19,356.33
 
     -Average Fare Per Ride:
       	Rural – $34.62
@@ -30,8 +30,8 @@
 
     -Average Fare Per Driver:
       	Rural – $55.49
-    	  Urban – $16.57
-    	  Suburban – $39.50
+    	Urban – $16.57
+    	Suburban – $39.50
 
     -Total Fare by City Type:
       	Rural – $4,327.97
