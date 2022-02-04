@@ -9,34 +9,34 @@
 -	The following is a description of differences at the micro level along with the differences at the macro (rural, urban, and suburban). 
 
     -Total Rides:
-      	Rural – 125
-      	Urban – 1625
-      	Suburban – 625
+      	Rural – 125;
+      	Urban – 1625;
+      	Suburban – 625;
 
     -Total Drivers:
-      	Rural – 78
-      	Urban – 2405
-      	Suburban – 490
+      	Rural – 78;
+      	Urban – 2405;
+      	Suburban – 490;
 
     -Total Fares:
-        Rural – $4,327.93
-      	Urban – $39,854.38
-    	Suburban – $19,356.33
+        Rural – $4,327.93;
+      	Urban – $39,854.38;
+    	Suburban – $19,356.33;
 
     -Average Fare Per Ride:
-      	Rural – $34.62
-      	Urban – $24.53
-      	Suburban – $30.97
+      	Rural – $34.62;
+      	Urban – $24.53;
+      	Suburban – $30.97;
 
     -Average Fare Per Driver:
-      	Rural – $55.49
-    	Urban – $16.57
-    	Suburban – $39.50
+      	Rural – $55.49;
+    	Urban – $16.57;
+    	Suburban – $39.50;
 
     -Total Fare by City Type:
-      	Rural – $4,327.97
-      	Urban – $19,356.33
-      	Suburban – $39,854.38
+      	Rural – $4,327.97;
+      	Urban – $19,356.33;
+      	Suburban – $39,854.38;
 
 ## Summary
 
