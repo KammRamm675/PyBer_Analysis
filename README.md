@@ -41,7 +41,7 @@
 ### Conclusion
     
    - Looking at the provide line graph we can see that all three city types experienced a spike during March. However, towards the end of April the Suburban type spiked again whiel the other two types declined.  
-![PyBer_fare_summary]()
+![PyBer_fare_summary](https://github.com/KammRamm675/PyBer_Analysis/blob/main/Analysis/PyBer_Fare_Summary.PNG)
 ## Summary
 
 -	The following are my personal recommendations to the CEO of PyBer:	
