@@ -38,6 +38,10 @@
       	Urban – $19,356.33;
       	Suburban – $39,854.38;
 
+### Conclusion
+    
+   - Looking at the provide line graph we can see that all three city types experienced a spike during March. However, towards the end of April the Suburban type spiked again whiel the other two types declined.  
+![PyBer_fare_summary]()
 ## Summary
 
 -	The following are my personal recommendations to the CEO of PyBer:	
